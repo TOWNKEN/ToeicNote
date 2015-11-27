@@ -1,6 +1,9 @@
 var app = angular.module('app', []);
 
 app.controller('myController', ['$scope', '$http', function($scope, $http){
+
+    $scope.search = "";
+
     $http.get("js/note.json")
         .success(function(data){
             $scope.itemList = data.reverse();
@@ -23,4 +26,19 @@ app.controller('myController', ['$scope', '$http', function($scope, $http){
   			$scope.selectedWeek = $scope.selectedWeek+1;
   		}
   	};
-}])
+
+    $scope.searchResult = function(word){
+        return word.Eng_Word.toLocaleLowerCase().indexOf($scope.search.toLocaleLowerCase()) >= 0
+            || word.Eng_Sentence.toLocaleLowerCase().indexOf($scope.search.toLocaleLowerCase()) >= 0;
+    };
+
+}]);
+
+app.filter('highlight', function($sce) {
+    return function(text, phrase) {
+      if (phrase) text = text.replace(new RegExp('('+phrase+')', 'gi'),
+        '<span class="highlighted">$1</span>')
+
+      return $sce.trustAsHtml(text)
+    }
+  })

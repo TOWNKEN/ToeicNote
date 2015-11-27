@@ -1,80 +1,14 @@
 [
 	{
-		"Title": "2015/11/11",
+		"Title": "2015/11/18",
 		"Week": 1,
 		"WordLists": [
 			{
-				"subTitle": "課堂單字",
+				"subTitle": "課堂單字1",
 				"subWordLists":[
 					{
 						"Eng_Word":"Affiliate",
 						"Ch_Word":"併入/加入",
-						"Eng_Sentence":"Our New York company has an affiliate in Los Angeles.",
-						"Ch_Sentence":"我們的紐約公司在洛杉磯有一個下屬企業。",
-						"Word_mp3":"http://dictionary.cambridge.org/zht/media/english-chinese-traditional/us_pron/a/aff/affil/affiliate_01_00.mp3",
-						"Word_ogg":"http://dictionary.cambridge.org/zht/media/english-chinese-traditional/us_pron_ogg/a/aff/affil/affiliate_01_00.ogg"
-
-					},{
-						"Eng_Word":"Arbitrates",
-						"Ch_Word":"仲裁/公斷",
-						"Eng_Sentence":"He arbitrates between investors and members of the association.",
-						"Ch_Sentence":"他在投資者和該協會成員之間作出仲裁。",
-						"Word_mp3":"http://dictionary.cambridge.org/zht/media/english-chinese-traditional/us_pron/e/eus/eus70/eus70302.mp3",
-						"Word_ogg":"http://dictionary.cambridge.org/zht/media/english-chinese-traditional/us_pron_ogg/e/eus/eus70/eus70302.ogg"
-					}
-				]
-			},{
-				"subTitle": "補充單字",
-				"subWordLists":[
-					{
-						"Eng_Word":"As well as",
-						"Ch_Word":"等同/也",
-						"Eng_Sentence":"He was suffering from shock as well as the after-effects of drugs.",
-						"Ch_Sentence":"她在毒品副作用發作的同時還引發了休克。"
-					},{
-						"Eng_Word":"Messenger",
-						"Ch_Word":"信使/通訊兵",
-						"Eng_Sentence":"He sent the order by messenger.",
-						"Ch_Sentence":"他通過郵遞員發出訂單。"
-					},{
-						"Eng_Word":"Receptionist",
-						"Ch_Word":"接待員",
-						"Eng_Sentence":"The receptionist recognized him at once.",
-						"Ch_Sentence":"接待員一眼就認出她了。"
-					},{
-						"Eng_Word":"Annoying",
-						"Ch_Word":"討厭的/惱人的",
-						"Eng_Sentence":"The annoying thing about the scheme is that it’s confusing.",
-						"Ch_Sentence":"這項計畫讓人討厭的地方是它讓人一頭霧水。"
-					},{
-						"Eng_Word":"Put someone through ",
-						"Ch_Word":"打給某個人",
-						"Eng_Sentence":"Can you put me through to customer services,please?",
-						"Ch_Sentence":"請幫我打給某個人好嗎?"
-					},{
-						"Eng_Word":"Stuttgart",
-						"Ch_Word":" 斯圖卡特",
-						"Eng_Sentence":"I took the fast train to Stuttgart at 27th.",
-						"Ch_Sentence":"我乘坐二十七號的的晚間快車到斯圖卡特。"
-					},{
-						"Eng_Word":"Banquet",
-						"Ch_Word":"宴會/請客/酒席",
-						"Eng_Sentence":"He entertained me with a banquet.",
-						"Ch_Sentence":"他以宴會款待我們。"
-					}
-				]
-			}
-		]
-	},{
-		"Title": "2015/11/18",
-		"Week": 2,
-		"WordLists": [
-			{
-				"subTitle": "課堂單字2",
-				"subWordLists":[
-					{
-						"Eng_Word":"Affiliate2",
-						"Ch_Word":"併入/加入2",
 						"Eng_Sentence":"Our New York company has an affiliate in Los Angeles.",
 						"Ch_Sentence":"我們的紐約公司在洛杉磯有一個下屬企業。"
 					},{
@@ -85,10 +19,10 @@
 					}
 				]
 			},{
-				"subTitle": "補充單字2",
+				"subTitle": "補充單字",
 				"subWordLists":[
 					{
-						"Eng_Word":"As well as2",
+						"Eng_Word":"As well as",
 						"Ch_Word":"等同/也",
 						"Eng_Sentence":"He was suffering from shock as well as the after-effects of drugs.",
 						"Ch_Sentence":"她在毒品副作用發作的同時還引發了休克。"
