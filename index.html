@@ -138,7 +138,9 @@
                 <div class="col-lg-12" >
                     <hr>
                     <h2 class="intro-text text-center">
-                        <strong ng-bind-html="word.Eng_Word | highlight:search"></strong> 
+                        <a target="_blank" ng-href="http://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E/{{word.Eng_Word | lowercase}}?q={{word.Eng_Word}}">
+                            <strong ng-bind-html="word.Eng_Word | highlight:search"></strong> 
+                        </a>
                         {{ word.Ch_Word }}
                     </h2>
                     <hr>
