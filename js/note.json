@@ -8,17 +8,17 @@
 				"subWordLists":[
 					{
 						"Eng_Word":"reimburse",
-						"Ch_Word":"償還；付還；補償",
+						"Ch_Word":"[ˌriː.ɪmˈbɜːs]償還；付還；補償",
 						"Eng_Sentence":"The airline reimbursed me for the amount they had overcharged me.",
 						"Ch_Sentence":"航空公司多收了我錢，他們後來退還給我了。"
 					},{
 						"Eng_Word":"attribute",
-						"Ch_Word":"特性；特質；屬性",
+						"Ch_Word":"[ˈæt.rɪ.bjuːt]特性；特質；屬性；把...歸因於",
 						"Eng_Sentence":"Organizational ability is an essential attribute for a good manager.",
 						"Ch_Sentence":"組織能力是一個出色經理必備的素質。"
 					},{
 						"Eng_Word":"exceed",
-						"Ch_Word":"超過，超出（數量）；超越（規定的範圍）",
+						"Ch_Word":"[ɪkˈsiːd]超過，超出（數量）；超越（規定的範圍）",
 						"Eng_Sentence":"The final cost should not exceed $5000.",
 						"Ch_Sentence":"最終的費用不應超出5000美元。"
 					},{
@@ -28,17 +28,17 @@
 						"Ch_Sentence":"她的嗓音很獨特。"
 					},{
 						"Eng_Word":"layout",
-						"Ch_Word":"[ˈleɪ.aʊt]佈局，佈置，排列",
+						"Ch_Word":"[ˈleɪ.aʊt]安排，陳列物，佈局，佈置，排列",
 						"Eng_Sentence":"I like the the layout of the house.",
 						"Ch_Sentence":"我喜歡這座房子的佈局。"
 					},{
 						"Eng_Word":"terminology",
-						"Ch_Word":"術語",
+						"Ch_Word":"[ˌtɜː.mɪˈnɒl.ə.dʒi]術語，專用語",
 						"Eng_Sentence":"scientific terminology",
 						"Ch_Sentence":"科學術語"
 					},{
 						"Eng_Word":"duplicate",
-						"Ch_Word":"複製，拷貝",
+						"Ch_Word":"[ˈdjuː.plɪ.keɪt]複製，拷貝",
 						"Eng_Sentence":"Can you duplicate (= use a special machine to copy) this document for me?",
 						"Ch_Sentence":"你能爲我複印一下這份文件嗎?"
 					},{
@@ -51,6 +51,61 @@
 						"Ch_Word":"條件；情況；情形；形勢；境況",
 						"Eng_Sentence":"I think she coped very well under the circumstances.",
 						"Ch_Sentence":"我覺得在那種情況下她處理得很不錯。"
+					},{
+						"Eng_Word":"consolation",
+						"Ch_Word":"[kɒn.səˈleɪ.ʃən]安慰；慰藉；給人帶來安慰的事物",
+						"Eng_Sentence":"I didn't know what to say - I just offered a few words of consolation.",
+						"Ch_Sentence":"我不知說甚麽好——只是安慰了幾句。"
+					},{
+						"Eng_Word":"premise",
+						"Ch_Word":"[prem.ɪs]（作為先決條件的）假定，前提",
+						"Eng_Sentence":"The research project is based on the premise stated earlier.",
+						"Ch_Sentence":"這項研究計劃是基於早先提出的假設之上的。"
+					},{
+						"Eng_Word":"reprimand",
+						"Ch_Word":"[ˈrep.rɪ.mɑːnd]訓斥；申斥；譴責",
+						"Eng_Sentence":"She was reprimanded by her teacher for biting another girl.",
+						"Ch_Sentence":"她因為咬了另一個女孩而受到了老師的訓斥。"
+					},{
+						"Eng_Word":"moderation",
+						"Ch_Word":"[mɒd.ərˈeɪ.ʃən]適度，適中",
+						"Eng_Sentence":"You can eat whatever you like as long as it's in moderation.",
+						"Ch_Sentence":"你想吃甚麼都可以，只要適量就好。"
+					},{
+						"Eng_Word":"immense",
+						"Ch_Word":"[ɪˈments]極大的，非常好的，巨大的，無限的",
+						"Eng_Sentence":"They spent an immense amount of time getting the engine into perfect condition.",
+						"Ch_Sentence":"他們花了大量時間使引擎運轉完美。"
+					},{
+						"Eng_Word":"dynamic",
+						"Ch_Word":"[daɪˈnæm.ɪk]動力，思維活躍的；活潑的，充滿活力的，精力充沛的",
+						"Eng_Sentence":"She's young and dynamic and will be a great addition to the team.",
+						"Ch_Sentence":"她年輕活潑，會給團隊增添不少活力。"
+					},{
+						"Eng_Word":"forecasting",
+						"Ch_Word":"氣象台",
+						"Eng_Sentence":"",
+						"Ch_Sentence":""
+					},{
+						"Eng_Word":"establishment",
+						"Ch_Word":"[ɪˈstæb.lɪʃ.mənt]成立",
+						"Eng_Sentence":"",
+						"Ch_Sentence":""
+					},{
+						"Eng_Word":"flyer,leaflet,pamphlet",
+						"Ch_Word":"宣傳單",
+						"Eng_Sentence":"",
+						"Ch_Sentence":""
+					},{
+						"Eng_Word":"persuade",
+						"Ch_Word":"[pəˈsweɪd]勸服；說服",
+						"Eng_Sentence":"If she doesn't want to go, nothing you can say will persuade her.",
+						"Ch_Sentence":"如果她不想去，你是說甚麼也勸不動她的。"
+					},{
+						"Eng_Word":"convince",
+						"Ch_Word":"[kənˈvɪnts]說服；使相信；使信服",
+						"Eng_Sentence":"He managed to convince the jury of his innocence.",
+						"Ch_Sentence":"他使陪審團相信他是無辜的。"
 					}
 				]
 			}
