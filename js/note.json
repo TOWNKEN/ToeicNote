@@ -27,10 +27,30 @@
 						"Eng_Sentence":"She's got a very distinctive voice.",
 						"Ch_Sentence":"她的嗓音很獨特。"
 					},{
-						"Eng_Word":"distinctive",
-						"Ch_Word":"[dɪˈstɪŋk.tɪv]與眾不同的，獨特的，特別的",
-						"Eng_Sentence":"She's got a very distinctive voice.",
-						"Ch_Sentence":"她的嗓音很獨特。"
+						"Eng_Word":"layout",
+						"Ch_Word":"[ˈleɪ.aʊt]佈局，佈置，排列",
+						"Eng_Sentence":"I like the the layout of the house.",
+						"Ch_Sentence":"我喜歡這座房子的佈局。"
+					},{
+						"Eng_Word":"terminology",
+						"Ch_Word":"術語",
+						"Eng_Sentence":"scientific terminology",
+						"Ch_Sentence":"科學術語"
+					},{
+						"Eng_Word":"duplicate",
+						"Ch_Word":"複製，拷貝",
+						"Eng_Sentence":"Can you duplicate (= use a special machine to copy) this document for me?",
+						"Ch_Sentence":"你能爲我複印一下這份文件嗎?"
+					},{
+						"Eng_Word":"excitement",
+						"Ch_Word":"[ɪkˈsaɪt.mənt]激動，興奮；令人興奮的事情",
+						"Eng_Sentence":"If you want excitement, you should try parachuting.",
+						"Ch_Sentence":"如果你想尋求刺激，應該去試一下跳傘。"
+					},{
+						"Eng_Word":"circumstance",
+						"Ch_Word":"條件；情況；情形；形勢；境況",
+						"Eng_Sentence":"I think she coped very well under the circumstances.",
+						"Ch_Sentence":"我覺得在那種情況下她處理得很不錯。"
 					}
 				]
 			}
