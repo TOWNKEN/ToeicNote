@@ -1,61 +1,36 @@
 [
 	{
-		"Title": "2015/11/18",
+		"Title": "2015/11/25",
 		"Week": 1,
 		"WordLists": [
 			{
-				"subTitle": "課堂單字1",
+				"subTitle": "課堂單字",
 				"subWordLists":[
 					{
-						"Eng_Word":"Affiliate",
-						"Ch_Word":"併入/加入",
-						"Eng_Sentence":"Our New York company has an affiliate in Los Angeles.",
-						"Ch_Sentence":"我們的紐約公司在洛杉磯有一個下屬企業。"
+						"Eng_Word":"reimburse",
+						"Ch_Word":"償還；付還；補償",
+						"Eng_Sentence":"The airline reimbursed me for the amount they had overcharged me.",
+						"Ch_Sentence":"航空公司多收了我錢，他們後來退還給我了。"
 					},{
-						"Eng_Word":"Arbitrates",
-						"Ch_Word":"仲裁/公斷",
-						"Eng_Sentence":"He arbitrates between investors and members of the association.",
-						"Ch_Sentence":"他在投資者和該協會成員之間作出仲裁。"
-					}
-				]
-			},{
-				"subTitle": "補充單字",
-				"subWordLists":[
-					{
-						"Eng_Word":"As well as",
-						"Ch_Word":"等同/也",
-						"Eng_Sentence":"He was suffering from shock as well as the after-effects of drugs.",
-						"Ch_Sentence":"她在毒品副作用發作的同時還引發了休克。"
+						"Eng_Word":"attribute",
+						"Ch_Word":"特性；特質；屬性",
+						"Eng_Sentence":"Organizational ability is an essential attribute for a good manager.",
+						"Ch_Sentence":"組織能力是一個出色經理必備的素質。"
 					},{
-						"Eng_Word":"Messenger",
-						"Ch_Word":"信使/通訊兵",
-						"Eng_Sentence":"He sent the order by messenger.",
-						"Ch_Sentence":"他通過郵遞員發出訂單。"
+						"Eng_Word":"exceed",
+						"Ch_Word":"超過，超出（數量）；超越（規定的範圍）",
+						"Eng_Sentence":"The final cost should not exceed $5000.",
+						"Ch_Sentence":"最終的費用不應超出5000美元。"
 					},{
-						"Eng_Word":"Receptionist",
-						"Ch_Word":"接待員",
-						"Eng_Sentence":"The receptionist recognized him at once.",
-						"Ch_Sentence":"接待員一眼就認出她了。"
+						"Eng_Word":"distinctive",
+						"Ch_Word":"[dɪˈstɪŋk.tɪv]與眾不同的，獨特的，特別的",
+						"Eng_Sentence":"She's got a very distinctive voice.",
+						"Ch_Sentence":"她的嗓音很獨特。"
 					},{
-						"Eng_Word":"Annoying",
-						"Ch_Word":"討厭的/惱人的",
-						"Eng_Sentence":"The annoying thing about the scheme is that it’s confusing.",
-						"Ch_Sentence":"這項計畫讓人討厭的地方是它讓人一頭霧水。"
-					},{
-						"Eng_Word":"Put someone through ",
-						"Ch_Word":"打給某個人",
-						"Eng_Sentence":"Can you put me through to customer services,please?",
-						"Ch_Sentence":"請幫我打給某個人好嗎?"
-					},{
-						"Eng_Word":"Stuttgart",
-						"Ch_Word":" 斯圖卡特",
-						"Eng_Sentence":"I took the fast train to Stuttgart at 27th.",
-						"Ch_Sentence":"我乘坐二十七號的的晚間快車到斯圖卡特。"
-					},{
-						"Eng_Word":"Banquet",
-						"Ch_Word":"宴會/請客/酒席",
-						"Eng_Sentence":"He entertained me with a banquet.",
-						"Ch_Sentence":"他以宴會款待我們。"
+						"Eng_Word":"distinctive",
+						"Ch_Word":"[dɪˈstɪŋk.tɪv]與眾不同的，獨特的，特別的",
+						"Eng_Sentence":"She's got a very distinctive voice.",
+						"Ch_Sentence":"她的嗓音很獨特。"
 					}
 				]
 			}
