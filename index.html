@@ -61,15 +61,15 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 
                 <ul class="nav navbar-nav">
-                <li style="display:none">
-                <a>
-                <button ng-click="pre()" class="btn btn-primary"><</button>
-                <select name="weel" ng-model="selectedWeek" >
-　                   <option ng-repeat="item in itemList" value="{{ item.Week }}">{{ item.Title }}</option>
-                </select>
-                <button ng-click="next()" class="btn btn-primary">></button>
-              
-                </a>
+                <li>
+                    <a>
+                        <button ng-click="pre()" class="btn btn-primary"><</button>
+                        <select name="weel" ng-model="selectedWeek" >
+        　                   <option ng-repeat="item in itemList" value="{{ item.Week }}">{{ item.Title }}</option>
+                        </select>
+                        <button ng-click="next()" class="btn btn-primary">></button>
+                  
+                    </a>
                 </li>
                     <li><a href=""><input type="text" style="width:250px" class="form-control" aria-describedby="helpBlock" ng-model="search" placeholder="Search Words..."></a></li>
 
