@@ -119,9 +119,94 @@
 				"subWordLists":[
 					{
 						"Eng_Word":"correspondence",
-						"Ch_Word":"通信",
+						"Ch_Word":"[ˌkɒr.ɪˈspɒn.dənts]通信",
 						"Eng_Sentence":"Any further correspondence should be sent to my new address.",
 						"Ch_Sentence":"以後來信請寄到我的新地址。"
+					},{
+						"Eng_Word":"absolute",
+						"Ch_Word":"[ˈæb.sə.luːt]完全的；全部的；絕對的；毋庸置疑的",
+						"Eng_Sentence":"I have absolute faith in her judgment.",
+						"Ch_Sentence":"我完全相信她的判斷。"
+					},{
+						"Eng_Word":"itinerary",
+						"Ch_Word":"[aɪˈtɪn.ər.ər.i]旅行計劃，預定行程",
+						"Eng_Sentence":"The tour operator will arrange transport and plan your itinerary.",
+						"Ch_Sentence":"旅行社工作人員將負責安排交通和行程計劃。"
+					},{
+						"Eng_Word":"complimentary",
+						"Ch_Word":"[ˌkɒm.plɪˈmen.tər.i]讚美的；讚賞的；恭維的",
+						"Eng_Sentence":"The reviews of his latest film have been highly complimentary.",
+						"Ch_Sentence":"評論文章對他的最新影片高度讚賞。"
+					},{
+						"Eng_Word":"inflation",
+						"Ch_Word":"[ɪnˈfleɪ.ʃən]通貨膨脹",
+						"Eng_Sentence":"the rate of inflation",
+						"Ch_Sentence":"通貨膨脹率"
+					},{
+						"Eng_Word":"designate",
+						"Ch_Word":"[ˈdez.ɪɡ.neɪt]指定，選定；委派",
+						"Eng_Sentence":"Thompson has been designated (as/to be) team captain.",
+						"Ch_Sentence":"湯姆森被指定擔任隊長。"
+					},{
+						"Eng_Word":"durable",
+						"Ch_Word":"[ˈdjʊə.rə.bl̩]持久的，耐久的",
+						"Eng_Sentence":"The machines have to be made of durable materials.",
+						"Ch_Sentence":"這種機器必須使用耐用的材料來製造。"
+					},{
+						"Eng_Word":"cautious",
+						"Ch_Word":"[ˈkɔː.ʃəs]（人）謹慎的，細心的，小心翼翼的",
+						"Eng_Sentence":"The old lady is very cautious with money. ",
+						"Ch_Sentence":"那位老太太用錢很謹慎。"
+					},{
+						"Eng_Word":"thorough",
+						"Ch_Word":"[ˈθʌr.ə]仔細的",
+						"Eng_Sentence":"They did a thorough search of the area but found nothing.",
+						"Ch_Sentence":"他們仔細搜索了該地區，但一無所獲。"
+					},{
+						"Eng_Word":"assume",
+						"Ch_Word":"[əˈsjuːm]假定，假設；臆斷，想當然地認為",
+						"Eng_Sentence":"Let's assume (that) they're coming and make plans on that basis.",
+						"Ch_Sentence":"我們還是假定他們會來，並以此來作出計劃。"
+					},{
+						"Eng_Word":"appraisal",
+						"Ch_Word":"[əˈpreɪ.zəl]評定；鑒定；估價；評價",
+						"Eng_Sentence":"The newspaper gave an editorial appraisal of the government's achievements of the past year.",
+						"Ch_Sentence":"這家報紙發表社論，對政府在過去一年的功績作出評價。"
+					},{
+						"Eng_Word":"superior",
+						"Ch_Word":"[suːˈpɪə.ri.ər]較好的，好於平均的，好過其他的，優越的",
+						"Eng_Sentence":"This is clearly the work of a superior artist.",
+						"Ch_Sentence":"這顯然是一位優秀藝術家的作品。"
+					},{
+						"Eng_Word":"broaden",
+						"Ch_Word":"[ˈbrɔː.dən]擴展，（使）變寬，（使）變闊",
+						"Eng_Sentence":"The track broadens and becomes a road at this point.",
+						"Ch_Sentence":"小道逐漸拓寬，到這裡就成了一條馬路。"
+					},{
+						"Eng_Word":"motivation",
+						"Ch_Word":"[ˌməʊ.tɪˈveɪ.ʃən]動機，積極性；幹勁",
+						"Eng_Sentence":"He's a bright enough student - he just lacks motivation.",
+						"Ch_Sentence":"他是個很聰明的學生，只是不夠積極。"
+					},{
+						"Eng_Word":"acknowledge",
+						"Ch_Word":"[əkˈnɒl.ɪdʒ]承認，認可…屬實或存在",
+						"Eng_Sentence":"You must acknowledge the truth of her argument.",
+						"Ch_Sentence":"你必須承認，她的論點是事實。"
+					},{
+						"Eng_Word":"spokesperson",
+						"Ch_Word":"發言人",
+						"Eng_Sentence":"a government spokesperson",
+						"Ch_Sentence":"政府發言人"
+					},{
+						"Eng_Word":"recipient",
+						"Ch_Word":"[rɪˈsɪp.i.ənt]接受者；領受者；承受者",
+						"Eng_Sentence":"She is one of the recipients of prizes. ",
+						"Ch_Sentence":"她是獲獎者之一。"
+					},{
+						"Eng_Word":"incorporate",
+						"Ch_Word":"[ɪnˈkɔː.pər.eɪt]合併，納入，包含；將…包括在內",
+						"Eng_Sentence":"We will incorporate your suggestion in this new plan. ",
+						"Ch_Sentence":"我們將把你的建議納入這一新的計畫。"
 					}
 				]
 			}
