@@ -110,6 +110,22 @@
 				]
 			}
 		]
+	},{
+		"Title": "2015/12/03",
+		"Week": 2,
+		"WordLists": [
+			{
+				"subTitle": "課堂單字",
+				"subWordLists":[
+					{
+						"Eng_Word":"correspondence",
+						"Ch_Word":"通信",
+						"Eng_Sentence":"Any further correspondence should be sent to my new address.",
+						"Ch_Sentence":"以後來信請寄到我的新地址。"
+					}
+				]
+			}
+		]
 	}
 ]
 
